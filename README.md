@@ -22,7 +22,7 @@ npm install @angular/cdk@6.4.7 - -save
 npm install @angular/animations@6.1.7 - -save
 ## install as well:
 npm install hammerjs@2.0.8 - -save
-we install the angular flex layout:
+## install the angular flex layout:
 npm install - -save @angular/flex-layout@6.0.0-beta.18
 
 ## Code scaffolding
