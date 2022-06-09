@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## install angular cli:
-npm install -g @angular/cli@13.2.3
+npm install  @angular/cli@13.2.3
 ## create an Angular project : 
 ng new app --style=scss
 then move to the app folder:
@@ -12,18 +12,18 @@ cd app/
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-Run 'ng serve -o ' to navigate automatically to 'http://localhost:4200/'
+Run `ng serve -o`  to navigate automatically to 'http://localhost:4200/'
 
 ## Install angular material:
 npm install @angular/material@6.4.7 - -save
 ## install as well cdk:
-npm install @angular/cdk@6.4.7 - -save
+`npm install @angular/cdk@6.4.7 - -save`
 ## import as well the angular animation modules:
-npm install @angular/animations@6.1.7 - -save
+`npm install @angular/animations@6.1.7 - -save`
 ## install as well:
-npm install hammerjs@2.0.8 - -save
+`npm install hammerjs@2.0.8 - -save`
 ## install the angular flex layout:
-npm install - -save @angular/flex-layout@6.0.0-beta.18
+`npm install - -save @angular/flex-layout@6.0.0`
 
 ## Code scaffolding
 
